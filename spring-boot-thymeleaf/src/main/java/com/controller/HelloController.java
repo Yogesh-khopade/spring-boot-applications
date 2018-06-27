@@ -4,9 +4,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
-* The Themeleaf program implements an application that
-* has default index page and welcome page for users.
-*
+* In this applicaton, I am trying to give basic security to access the profile page.
+* Basic In-memory authentication is implemented.
+* 
 * @author  Yogesh Khopade
 * @version 1.0
 * @since   2018-06-27
